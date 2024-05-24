@@ -1,0 +1,5 @@
+22:25:58.143 [main] INFO  com.example.App - Application started
+22:25:58.146 [main] INFO  com.example.App - This is an informational message.
+22:25:58.146 [main] ERROR com.example.App - This is an error message.
+22:25:58.146 [main] WARN  com.example.App - This is a warning message.
+22:25:58.146 [main] INFO  com.example.App - Application ended

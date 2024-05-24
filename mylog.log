@@ -1,0 +1,12 @@
+May 21, 2024 9:21:09 PM LoggerDemo main
+INFO: 🟢 APP STARTED!
+May 21, 2024 9:21:10 PM LoggerDemo main
+SEVERE: 🔴 This is a severe message.
+May 21, 2024 9:21:10 PM LoggerDemo main
+WARNING: 🟠 This is a warning message.
+May 21, 2024 9:21:10 PM LoggerDemo main
+INFO: 🟢 This is an info message.
+May 21, 2024 9:21:10 PM LoggerDemo main
+SEVERE: 🔴 Index 4 out of bounds for length 4
+May 21, 2024 9:21:10 PM LoggerDemo main
+WARNING: 🟠 Be careful!
